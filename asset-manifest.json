@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-app/static/css/main.cf2e9ffd.css",
+    "main.js": "/react-app/static/js/main.bcf651e0.js",
+    "static/media/bootstrap-icons.woff?": "/react-app/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/bootstrap-icons.woff2?": "/react-app/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "static/media/product1.jpg": "/react-app/static/media/product1.f7d40246b11a46a4e931.jpg",
+    "static/media/product2.jpg": "/react-app/static/media/product2.7610053b7d5e5d8b7913.jpg",
+    "static/media/logo-2.png": "/react-app/static/media/logo-2.37311d8560303338e774.png",
+    "static/media/product3.jpg": "/react-app/static/media/product3.7d1f5c6c69e6d0c87b81.jpg",
+    "static/media/image1.jpg": "/react-app/static/media/image1.271f8a1f26a72f9a4073.jpg",
+    "static/media/image3.jpg": "/react-app/static/media/image3.df4630023f9ca9b0f96f.jpg",
+    "index.html": "/react-app/index.html",
+    "main.cf2e9ffd.css.map": "/react-app/static/css/main.cf2e9ffd.css.map",
+    "main.bcf651e0.js.map": "/react-app/static/js/main.bcf651e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf2e9ffd.css",
+    "static/js/main.bcf651e0.js"
+  ]
+}
